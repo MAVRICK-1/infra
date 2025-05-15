@@ -161,7 +161,7 @@ branch-protection:
           restrictions:
             users: []
             teams:
-              - kubestellar/kubeflex-admins
+              - kubestellar/kubestellar-admins
           include:
             - "^main$"
             - "^release-.+$"
